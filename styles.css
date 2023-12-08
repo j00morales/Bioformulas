@@ -1,0 +1,22 @@
+/* Styling for the entire document */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Styling for the navigation bar */
+nav {
+  background-color: #333;
+  color: white;
+  padding: 15px;
+}
+
+nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+/* Styling for each section */
+section {
+  padding: 20px;
+}
